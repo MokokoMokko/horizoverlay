@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/horizoverlay/static/css/main.19d2e41e.chunk.css",
-    "main.js": "/horizoverlay/static/js/main.2425ef84.chunk.js",
-    "main.js.map": "/horizoverlay/static/js/main.2425ef84.chunk.js.map",
+    "main.js": "/horizoverlay/static/js/main.e9e8cbf6.chunk.js",
+    "main.js.map": "/horizoverlay/static/js/main.e9e8cbf6.chunk.js.map",
     "runtime-main.js": "/horizoverlay/static/js/runtime-main.9a241b58.js",
     "runtime-main.js.map": "/horizoverlay/static/js/runtime-main.9a241b58.js.map",
     "static/js/2.ce8b7888.chunk.js": "/horizoverlay/static/js/2.ce8b7888.chunk.js",
     "static/js/2.ce8b7888.chunk.js.map": "/horizoverlay/static/js/2.ce8b7888.chunk.js.map",
     "index.html": "/horizoverlay/index.html",
-    "precache-manifest.36b118379cadbe0e06517d63ba261fac.js": "/horizoverlay/precache-manifest.36b118379cadbe0e06517d63ba261fac.js",
+    "precache-manifest.2b3e7308302abc34ce2f6fd6b63e979c.js": "/horizoverlay/precache-manifest.2b3e7308302abc34ce2f6fd6b63e979c.js",
     "service-worker.js": "/horizoverlay/service-worker.js",
     "static/css/main.19d2e41e.chunk.css.map": "/horizoverlay/static/css/main.19d2e41e.chunk.css.map",
     "static/js/2.ce8b7888.chunk.js.LICENSE.txt": "/horizoverlay/static/js/2.ce8b7888.chunk.js.LICENSE.txt",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.9a241b58.js",
     "static/js/2.ce8b7888.chunk.js",
     "static/css/main.19d2e41e.chunk.css",
-    "static/js/main.2425ef84.chunk.js"
+    "static/js/main.e9e8cbf6.chunk.js"
   ]
 }
