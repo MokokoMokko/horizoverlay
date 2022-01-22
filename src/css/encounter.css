@@ -102,14 +102,6 @@
   z-index: 0;
 }
 
-span.character-name,
-span.damage-stats,
-span.damage-dh,
-span.damage-crit,
-span.damage-dcrit{
-  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
-}
-
 /*
 .limit-break-text {
   color: rgb(218, 218, 218);
