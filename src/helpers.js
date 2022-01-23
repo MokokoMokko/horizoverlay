@@ -35,8 +35,8 @@ export const defaultConfig = {
 // Declaring as a function makes it hoisted and don't mess with constructor from React.Component
 export function withHelper({
   WrappedComponent,
-  willMock = false,
-  isConfig = false
+  willMock = true,
+  isConfig = true
 }) {
   return class withConfig extends Component {
     static defaultProps = {

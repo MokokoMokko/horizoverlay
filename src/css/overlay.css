@@ -669,16 +669,18 @@
   display: table;
   text-align: center;
   width: 100%;
-  font-size: 6px;
+  font-size: 10px;
   top: -2px;
   right: 10px;
 }
 
 .row .damage-percent>* {
+  font-size: 0.8em;
   display: table-cell;
   width: 10%;
   text-align: center;
 }
+
 
 .damage-dh{ 
   column-span: 3;
@@ -768,7 +770,7 @@
 
 .dps span.label {
   font-size: 8px;
-  margin: 0 0 0 1px;
+  margin: 0 0 0 px;
 }
 
 .row .maxhit {

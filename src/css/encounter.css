@@ -15,7 +15,7 @@
 .encounter {
   text-shadow: 0 0 8px #000;
   text-align: center;
-  margin: 5px 0 0;
+  margin: 1px 0 0;
 }
 .encounter .skewer:before {
   transform: skew(-30deg);
@@ -76,8 +76,8 @@
   z-index: 0;
 }
 
-/*
+
 .limit-break-text {
   color: rgb(218, 218, 218);
 }
-*/
+

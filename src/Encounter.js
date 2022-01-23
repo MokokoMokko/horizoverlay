@@ -83,11 +83,11 @@ class Encounter extends Component {
             {totalDps.toLocaleString()} DPS
           </div>
           <div
-            className={`encounter-limitBreak${false
+            className={`encounter-limitBreak${true
               ? ' show'
               : ''}`}
           >
-            <span className='limit-break-text'>Limit Break  </span>
+            <span className='limit-break-text'>LB  </span>
             <span className='limit-break-dmg'> {lb[2] ? lb[2] : "------"}</span>
           </div>
           <div
