@@ -675,7 +675,7 @@
 }
 
 .row .damage-percent>* {
-  font-size: 0.8em;
+  font-size: 0.9em;
   display: table-cell;
   width: 10%;
   text-align: center;
@@ -683,13 +683,13 @@
 
 
 .damage-dh{ 
-  column-span: 3;
+  column-span: 2;
 }
 .damage-crit{ 
-  column-span: 3;
+  column-span: 2;
 }
 .damage-dcrit{ 
-  column-span: 3;
+  column-span: 2;
 }
 .damage-deaths{ 
   column-span: 1;
@@ -774,7 +774,8 @@
 }
 
 .row .maxhit {
-  font-size: 0.85em;
+  white-space: nowrap;
+  font-size: 0.84em;
   margin-top: -0.3em;
   margin-left: -0.8em;
   text-align: center;

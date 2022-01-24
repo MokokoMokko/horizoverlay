@@ -91,7 +91,7 @@ export default class CombatantHorizontal extends Component {
     const isHealing = data.ENCHPS > data.ENCDPS
 
     let maxhit
-    if (data.maxhit) maxhit = data.maxhit.replace('-', ': ')
+    if (data.maxhit) maxhit = data.maxhit.replace('-', ':')
     return (
       <div
         className={`row ${data.Job}${jobStyleClass}${
@@ -129,9 +129,9 @@ function DamageBar({ dhit, crit, crit_dh, deaths, width, show }) {
   return (
     <div>
       <div className="damage-percent">
-      <span className="damage-crit">C: { crit }</span>
-        <span className="damage-dh">D: { dhit }</span>
-        <span className="damage-dcrit">CD: {crit_dh}</span>
+      <span className="damage-crit">C:{ crit }</span>
+        <span className="damage-dh">D:{ dhit }</span>
+        <span className="damage-dcrit">CD:{crit_dh}</span>
         <span className="damage-deaths">{deaths}</span>
       </div>
     </div>
